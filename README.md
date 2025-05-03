@@ -40,4 +40,7 @@ Site desenvolvido por **Alexandre Costa**
 
 ---
 
+![tributo_ao_bruce_lee](https://github.com/user-attachments/assets/a8ce33cd-e5f0-41c3-a13e-13e14785e690)
+
+
 > “Be water, my friend.” — Bruce Lee
