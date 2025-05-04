@@ -128,7 +128,7 @@ h2 {
 .image {
   display: block;
   max-width: 100%; /* Limita a largura */
-  max-height: 200px; /* Limita a altura */
+  max-height: 180px; /* Limita a altura */
   border-radius: 10px; /* Bordas arredondadas */
   padding: 3px; /* Preenchimento */
   border: 2px solid rgb(232, 232, 241); /* Borda */
@@ -181,6 +181,20 @@ div ul li a {
 div ul li a:hover {
   text-decoration: underline; /* Sublinha os links ao passar o mouse */
 }
+
+
+/* Estilo dos links filmes */
+
+.film a {
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.3s ease-in-out;
+}
+
+.film a:hover {
+  transform: scale(1.2);
+}
+
 
 /* Footer */
 #footer {
