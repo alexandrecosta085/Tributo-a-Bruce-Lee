@@ -182,8 +182,26 @@ div ul li a:hover {
   text-decoration: underline; /* Sublinha os links ao passar o mouse */
 }
 
-/* Estilo do rodapé */
-footer {
-  text-align: center; /* Centraliza o conteúdo do rodapé */
-  margin-top: 30px; /* Espaçamento superior */
+/* Footer */
+#footer {
+  background-color: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 20px 20px;
+  font-size: 0.9rem;
+}
+
+#footer .social-links {
+  margin-top: 5px;
+}
+
+#footer .social-links a {
+  color: #ccc;
+  margin: 0 15px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+#footer .social-links a:hover {
+  color: #00f2fe;
 }
